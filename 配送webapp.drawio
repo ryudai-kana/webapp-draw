@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:14:43.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="vHonslGg6wvLxWhFI9ld" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:08:38.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="3cGxpRs_kPsJr-hnsxaH" version="14.4.9" type="github">
   <diagram id="O2ma393FgZbkaibP8hnx" name="ページ1">
-    <mxGraphModel dx="3132" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3372" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
           <mxGeometry x="340" y="95" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-58" value="firestore" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;rounded=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="430" width="550" height="150" as="geometry" />
+          <mxGeometry x="-960" y="430" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-59" value="ユーザ" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="480" width="50" height="50" as="geometry" />
@@ -263,22 +263,22 @@
           <mxGeometry x="-950" y="620" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-130" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; user{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; userid:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;name:&lt;br&gt;}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-895" y="615" width="90" height="60" as="geometry" />
+          <mxGeometry x="-900" y="610" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-131" value="店舗" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="620" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GoovgjrzjJ6ZzRfpIoOt-132" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;userid: &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tenpo:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Name:&lt;br&gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tenpoid:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="605" width="120" height="80" as="geometry" />
+        <mxCell id="GoovgjrzjJ6ZzRfpIoOt-132" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;userid: &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tenpo:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Name:&lt;br&gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tenpoid:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;code:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; delivery:{}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; pickup:{}&lt;br&gt;}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="585" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-140" value="配送&lt;br&gt;完了" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="480" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-141" value="配送&lt;br&gt;完了" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="620" width="50" height="50" as="geometry" />
+          <mxGeometry x="-950" y="770" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GoovgjrzjJ6ZzRfpIoOt-142" value="userid:&lt;br&gt;Name:&lt;br&gt;delivery:{&lt;br&gt;&amp;nbsp; delivery1:&lt;br&gt;&amp;nbsp; delivery2:&lt;br&gt;&amp;nbsp; delivery3:&lt;br&gt;&amp;nbsp; delivery4:&lt;br&gt;}&lt;br&gt;&lt;br&gt;pickup:{&lt;br&gt;&amp;nbsp; pickup1:&lt;br&gt;&amp;nbsp; pickup2:&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="600" width="70" height="190" as="geometry" />
+          <mxGeometry x="-860" y="710" width="70" height="190" as="geometry" />
         </mxCell>
         <mxCell id="W8wt1Ar-wrBB2WAcVZsc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W8wt1Ar-wrBB2WAcVZsc-1" target="W8wt1Ar-wrBB2WAcVZsc-2">
           <mxGeometry relative="1" as="geometry" />
